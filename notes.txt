@@ -1,0 +1,12 @@
+HttpClientErrorException – in case of HTTP status 4xx
+HttpServerErrorException – in case of HTTP status 5xx
+ye exception aate h service side jab hum connector se corresponding response return krte h
+
+
+Java 8:- Use of Optional Feature to avoid null vala issue ( null check krna ni bhulenge phir)
+
+
+
+
+
+
