@@ -7,5 +7,7 @@ Aspect oriented programming in full details
 @Inteface vala logic
 
 Optional ka use acchi se smajhna h
+java 8 feature (use of streams)
+Docker images in QA
 
 
