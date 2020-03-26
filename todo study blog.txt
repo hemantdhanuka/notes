@@ -11,3 +11,10 @@ java 8 feature (use of streams)
 Docker images in QA
 
 
+tools:-
+apace flink
+kafka
+druid
+superset
+
+

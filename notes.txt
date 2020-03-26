@@ -6,6 +6,35 @@ ye exception aate h service side jab hum connector se corresponding response ret
 Java 8:- Use of Optional Feature to avoid null vala issue ( null check krna ni bhulenge phir)
 
 
+Docker:- Docker resolve problem " ki it works perfectlly fine on my machine", i dont know why it is not working on your machine
+
+
+by me(reason may be ki kuch dependecny kisi aur project m kaam krte hue aa gyi ho and uske pass no ho and many...)
+
+docker allow us to create "dabba"(container) jiske andar hmara code h and usko hum ek machine se dusre machine m dibbe sahit 
+le ja skte h and run kr skte h dibbe ko direct
+
+docker ki application like:-
+docker is client side application and we can just install the docker and it can do all things for u including designing container for u and
+all our codes and config will be packed and we can move it anywhere. docker can also act as service and it can be deployed to any server
+so that we can take our containter and and deployed to any server.. hum apne docker image ko share kr skte like hum image share krte h
+so one can start thing from the things we left
+docker is also a company
+
+
+
+Api ko consume krte time:_
+
+        TrainListDTO trainListDTO = restTemplate.getForObject(uri, TrainListDTO.class, params);
+
+2 cases:-
+1.a return TrainListDTO Object (all good)
+1.b return some other object like TrainError (trainlistDTO will not be null, bul all field inside it will be null)
+2. throws exception (not proved ye hoga but ummed h ki code fatega and trainListDTO null rh jayega)
+
+//trainListDTO will be not be null but all enteries inside it will null if it return error vala object wrapped in proved
+       
+
 
 
 

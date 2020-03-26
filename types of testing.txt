@@ -1,0 +1,15 @@
+type of testing
+
+unit testing
+integration testing
+regression testing== when we are building something new feature we broke some other feature
+
+stress testing :- jyada load aane pe fat toh ni ra kuch like cache, server , db anything so create bot for that(virtual load)
+locust for load testing
+performance testing:-
+
+what if 50k use that feature together?
+
+alpha testing:- public release kiya bina, kuch employee ya close one ko use krne dena
+beta testing:- kuch logo ko use krne dena, more that alpha like kisi collg k bachho ko use krne dena rather than releasing
+publically
