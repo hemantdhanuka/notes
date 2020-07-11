@@ -1,0 +1,11 @@
+less command se file open krne k baad shift+F then live type end of files will show up
+
+
+
+
+doubt:-
+
+1).found bug ki when no alternate options found so when we are not finding any train, why it is showing alternate options?
+2).General:- diff b/w error vs info (in terms of log reading)
+
+when we are thrwoing exception with HttpStatus.OK than want to log something than what to use logger.error or logger.info ?
