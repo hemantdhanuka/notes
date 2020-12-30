@@ -1,5 +1,0 @@
-Restart that component if high RT (what about piling)
-aws BLUE Green Deployment
-
-In Edge we can see what is deployed currently for each component
-canary( agar ek server pe try krna ho har server m daalne se phle)
